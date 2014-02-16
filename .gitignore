@@ -1,3 +1,9 @@
 .Rproj.user
 .Rhistory
 .RData
+
+Kaggle/LoanDefaultPrediction/train.csv
+Kaggle/LoanDefaultPrediction/train.db
+Kaggle/LoanDefaultPrediction/trainhead.csv
+
+*.zip
